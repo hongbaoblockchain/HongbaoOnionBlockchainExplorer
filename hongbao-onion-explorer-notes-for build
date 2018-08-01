@@ -1,0 +1,15 @@
+onion explorer to work with hb
+
+requirments:
+
+monero release 10.1
+git checkout
+lmdbcpp-monero was able to make on commit: '244fb01506565309c2db669ab71acc3a3e341edd'
+onion-monero-blockchain-explorer: release 'sumokoin' commit '95d9620214bf8fd296c49782ababcc9ab221eeb9'
+
+change sumokoin http code to hongbao
+change css
+
+replace with ".bitmonero/lmdb/" with ".hongbao/lmdb"
+
+./xmr 
